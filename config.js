@@ -1,19 +1,16 @@
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introDesc: `Anh biết dạo này em buồn lắm nên mới làm cái này tặng em nè sẵn chúc mừng sinh nhật luôn 😎 `,
+    btnIntro: 'Tiếp nè ✔',
+    title: 'Chúc mừng sinh nhật em nhaaa 🎁',
+    desc: 'Em có thích quà của anh hongggg ',
+    btnYes: 'Dạ thích',
+    btnNo: 'Đéo',
+    question:'gửi vô đây những lời em muốn nói UwU',
+    btnReply: 'Gửi',
+    reply: 'Yêu thì yêu mà không yêu cũng phải yêuu',
+    mess: 'aww, anh cũng yêu em lắm 😘😘',
+    messDesc: 'Anyways, sinh nhật vui vẻ nha bae ^^!',
+    btnAccept: 'Dạaa',
+    messLink: 'https://www.facebook.com/photo?fbid=1237594730016441&set=pob.100012977777790' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
